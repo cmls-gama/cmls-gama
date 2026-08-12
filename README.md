@@ -3,9 +3,9 @@
 ## QA Engineer, com experiência em testes Web, API, automação de testes e performance
 
 - 🔭 Atualmente atuo como **QA Engineer**, contribuindo com estratégias de teste e melhoria contínua da qualidade.
-- 🌱 Estou aprimorando meus conhecimentos em automação de testes, performance e Inteligência Artificial aplicada a QA.
+- 🌱 Estou sempre aprimorando meus conhecimentos em testes funcionais e não funcionais além de automação de testes e Inteligência Artificial aplicada a QA.
 - 💬 Fale comigo sobre testes de software, automação Web e API, testes exploratórios e qualidade de software.
-- 🚀 Tenho mais de 10 anos de experiência em Tecnologia da Informação e cerca de 5 anos de atuação em QA.
+- 🚀 Tenho mais de 10 anos de experiência em Tecnologia da Informação e mais de 5 anos de atuação em Testes e Qualidade de Software.
 
 ## Como me encontrar
 
@@ -57,12 +57,6 @@
 Projeto de portfólio voltado à qualidade de uma API REST de motocicletas, reunindo planejamento, documentação, testes funcionais, automação de API e testes de performance.
 
 ➡️ [Conheça o projeto Motos na Web](https://github.com/cmls-gama/motos-na-web-api)
-
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub de Caio](https://github-readme-stats.vercel.app/api?username=cmls-gama&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cmls-gama&layout=compact&theme=github_dark&hide_border=true&locale=pt-br)
 
 ---
 
