@@ -1,6 +1,6 @@
 # Eu sou Caio Marques
 
-## QA Engineer, com experiência em testes Web, API, automação de testes e performance
+## QA Engineer, com experiência em testes Web, API, Performance e Automação de Testes.
 
 - 🔭 Atualmente atuo como **QA Engineer**, contribuindo com estratégias de teste e melhoria contínua da qualidade.
 - 🌱 Estou sempre aprimorando meus conhecimentos em testes funcionais e não funcionais além de automação de testes e Inteligência Artificial aplicada a QA.
